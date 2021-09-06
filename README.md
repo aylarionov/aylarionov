@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm *Front-end developer* from Moscow.
+## I'm *JavaScript developer* from Moscow.
 
 
 ### Languages and Technologies
