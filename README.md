@@ -17,4 +17,3 @@
 ### 🌐 Telegram: @ay_larionov
 
 Thank you for your time
-#
