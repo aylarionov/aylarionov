@@ -1,4 +1,4 @@
-# 👋 Hi, my name is **Larionov Anton**!
+# 👋🏻 Hi!
 
 ## I'm *JavaScript developer* from Moscow.
 
