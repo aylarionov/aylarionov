@@ -16,5 +16,5 @@
 ### 📧 Mail me: aylarionov@yandex.ru
 ### 🌐 Telegram: @ay_larionov
 
-### Thank you for your time
+Thank you for your time
 #
